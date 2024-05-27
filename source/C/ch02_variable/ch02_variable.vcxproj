@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="ex2.1_정수형_문자형.c" />
     <ClCompile Include="ex2.2_변수선언방법 .c" />
+    <ClCompile Include="ex2.3_실수형.c" />
+    <ClCompile Include="ex3_상수.c" />
+    <ClCompile Include="ex4_printf.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

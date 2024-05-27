@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\CPython\\source\\C\\ch02_variable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2656C27A-9A03-42B3-9251-DDF5C5401EA4}|ch02_variable.vcxproj|C:\\CPython\\source\\C\\ch02_variable\\ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95 .c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2656C27A-9A03-42B3-9251-DDF5C5401EA4}|ch02_variable.vcxproj|solutionrelative:ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95 .c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2656C27A-9A03-42B3-9251-DDF5C5401EA4}|ch02_variable.vcxproj|C:\\CPython\\source\\C\\ch02_variable\\ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2656C27A-9A03-42B3-9251-DDF5C5401EA4}|ch02_variable.vcxproj|solutionrelative:ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2656C27A-9A03-42B3-9251-DDF5C5401EA4}|ch02_variable.vcxproj|C:\\CPython\\source\\C\\ch02_variable\\ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2656C27A-9A03-42B3-9251-DDF5C5401EA4}|ch02_variable.vcxproj|solutionrelative:ex4_printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,34 +13,36 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 293,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95 .c",
-              "DocumentMoniker": "C:\\CPython\\source\\C\\ch02_variable\\ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95 .c",
-              "RelativeDocumentMoniker": "ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95 .c",
-              "ToolTip": "C:\\CPython\\source\\C\\ch02_variable\\ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95 .c",
-              "RelativeToolTip": "ex2.2_\uBCC0\uC218\uC120\uC5B8\uBC29\uBC95 .c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ex4_printf.c",
+              "DocumentMoniker": "C:\\CPython\\source\\C\\ch02_variable\\ex4_printf.c",
+              "RelativeDocumentMoniker": "ex4_printf.c",
+              "ToolTip": "C:\\CPython\\source\\C\\ch02_variable\\ex4_printf.c*",
+              "RelativeToolTip": "ex4_printf.c*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-27T04:50:33.906Z",
+              "WhenOpened": "2024-05-27T05:40:58.749Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c",
-              "DocumentMoniker": "C:\\CPython\\source\\C\\ch02_variable\\ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c",
-              "RelativeDocumentMoniker": "ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c",
-              "ToolTip": "C:\\CPython\\source\\C\\ch02_variable\\ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c",
-              "RelativeToolTip": "ex2.1_\uC815\uC218\uD615_\uBB38\uC790\uD615.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-27T04:31:10.328Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

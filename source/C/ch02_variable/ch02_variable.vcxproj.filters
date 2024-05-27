@@ -15,10 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ex2.2_변수선언방법 .c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="ex2.1_정수형_문자형.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex2.2_변수선언방법 .c">
+    <ClCompile Include="ex2.3_실수형.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex3_상수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex4_printf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
